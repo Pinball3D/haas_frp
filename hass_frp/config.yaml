@@ -1,7 +1,7 @@
 name: "Hello world"
 description: "My first real app!"
 version: "1.0.0"
-slug: "/"
+slug: "/hass_frp"
 init: false
 ingress: true
 ingress_port: 8000
